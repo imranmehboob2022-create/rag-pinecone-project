@@ -1,4 +1,4 @@
-```txt
+
 streamlit==1.38.0
 pinecone-client==5.0.1
 sentence-transformers==3.0.1
@@ -16,4 +16,4 @@ tiktoken==0.8.0
 
 pandas==2.2.3
 numpy==1.26.4
-```
+
